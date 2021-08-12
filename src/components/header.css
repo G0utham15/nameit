@@ -1,0 +1,20 @@
+.header-comp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color:white;
+    margin: 40px;
+}
+.header-img{
+    width: auto;
+    transition: min-width 1s, max-width 1s;
+}
+.header-img-expanded{
+    min-width: 230px;
+    max-width: 250px;
+}
+.header-img-compressed{
+    min-width: 100px;
+    max-width: 120px;
+}
