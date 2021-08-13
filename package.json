@@ -1,7 +1,7 @@
 {
   "name": "nameit",
   "version": "0.1.0",
-  "homepage":"http://G0utham15.github.com/nameit/",
+  "homepage":"http://G0utham15.github.io/nameit/",
   "private": true,
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
