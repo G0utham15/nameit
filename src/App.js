@@ -7,7 +7,7 @@ import SearchBar from './components/search';
 const name=require("@rstacruz/startup-name-generator");
 
 function App() {
-  const [HeaderTitle, setHeaderTitle] = useState("Nameit");
+  const [HeaderTitle] = useState("Nameit");
   const [HeaderExpanded, setHeaderExpanded] = useState(true);
   const [SuggestedNames, setSuggestedNames] = useState([])
   const HandleInputChange=(input)=>{

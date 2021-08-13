@@ -1,1 +1,3 @@
-Project to name randomly......
+Project to name randomly
+
+Inspired from [@TheLeanProgrammer/nameit](https://github.com/TheLeanProgrammer/nameit)

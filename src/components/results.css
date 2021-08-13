@@ -5,4 +5,5 @@
     padding: 20 40;
     width: 50%;
     margin: 10px 25% 0 25%;
+    flex-grow: 4;
 }
