@@ -5,7 +5,7 @@ function Header({title,HeaderExpanded}) {
     return (
         <div className="header-comp">
             <img src={header} alt="logo" className={`header-img ${HeaderExpanded?`header-img-expanded`:`header-img-compressed`}`}></img>
-            <h1>{title}</h1>
+            <h1 className="header-text">{title}</h1>
         </div>
     )
 }
