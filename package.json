@@ -2,7 +2,7 @@
   "name": "nameit",
   "version": "0.1.0",
   "homepage":"http://G0utham15.github.io/nameit",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.14.1",
